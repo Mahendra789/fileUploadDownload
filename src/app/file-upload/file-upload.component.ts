@@ -1,5 +1,5 @@
 import { Component, OnInit, ViewEncapsulation } from '@angular/core';
-import { FileWebService } from '../fileweb-service.service';
+import { FileWebService } from '../fileweb-service';
 import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 import { FilestackService } from '@filestack/angular';
 
