@@ -1,3 +1,9 @@
+# Demo
+checkout the demo at: https://angular-qhf1um.stackblitz.io/
+
+# Installation
+Download the code and navigate to Directory and run command in your terminal `npm install` So it will download all the necessary dependencies. 
+
 # fileUploadDownload
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
